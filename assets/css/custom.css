@@ -154,6 +154,12 @@ body.home div.experience{
 .experience a:active > .experience__company{
     color: white;
 }
+.testimonial img {
+    border-radius: 50%;
+    max-width: 52px !important;
+    height: auto;
+    margin-right: 10px;
+}
 
 .all-experience-container{
     margin-top: 50px;
