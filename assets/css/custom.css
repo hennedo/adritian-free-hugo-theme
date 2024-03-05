@@ -185,8 +185,12 @@ body.home div.experience{
     }
 }
 
-@media only screen and (min-width : 992px) {    
-    .rad-showcase{
+@media only screen and (min-width : 992px) {
+    .rad-showcase {
         padding-top: 40px;
-    }    
+    }
+}@media only screen and (min-width : 1280px) {
+    .rad-showcase {
+        padding-top: 120px;
+    }
 }
