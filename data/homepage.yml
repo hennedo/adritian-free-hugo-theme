@@ -7,6 +7,7 @@ showcase:
   image:
     x: "images/showcase/showcase.png"
     _2x: "images/showcase/showcase@2x.png"
+    alt: "Showcase of me"
   imageMobile:
     x: "images/showcase/showcase-mobile.jpg"
 
@@ -67,6 +68,7 @@ about:
   image:
     x: "images/who-am-i/user-picture.png"
     _2x: "images/who-am-i/user-picture@2x.png"
+    alt: "An image of me!"
 
 # education
 education:
@@ -117,32 +119,33 @@ client_and_work:
     - logo:
         x: "images/clients/asgardia.png"
         _2x: "images/clients/asgardia@2x.png"
-      alt: "Asgardia"
+        alt: "Asgardia"
+      url: "https://example.com"
 
     - logo:
         x: "images/clients/earth-2.png"
         _2x: "images/clients/earth-2@2x.png"
-      alt: "Earth 2.0"
+        alt: "Earth 2.0"
 
     - logo:
         x: "images/clients/goldline.png"
         _2x: "images/clients/goldline@2x.png"
-      alt: "Goldline"
+        alt: "Goldline"
 
     - logo:
         x: "images/clients/kanba.png"
         _2x: "images/clients/kanba@2x.png"
-      alt: "Kanba"
+        alt: "Kanba"
 
     - logo:
         x: "images/clients/zoo-tv.png"
         _2x: "images/clients/zoo-tv@2x.png"
-      alt: "Zoo"
+        alt: "Zoo"
 
     - logo:
         x: "images/clients/ztos.png"
         _2x: "images/clients/ztos@2x.png"
-      alt: "Ztos"
+        alt: "Ztos"
 
   works:
     - title: "Radity Finance - UI Kit"
@@ -154,6 +157,7 @@ client_and_work:
       image:
         x: "images/works/radity-finance.jpg"
         _2x: "images/works/radity-finance@2x.jpg"
+        alt: "Radity Finance - UI Kit"
       is_even: true
 
     - title: "Swiss Fintech Website"
@@ -165,6 +169,7 @@ client_and_work:
       image:
         x: "images/works/swissfintech.jpg"
         _2x: "images/works/swissfintech@2x.jpg"
+        alt: "Swiss Fintech Website"
       is_even: false
 
     - title: "Robo Advisor"
@@ -176,6 +181,7 @@ client_and_work:
       image:
         x: "images/works/robo-advisor.jpg"
         _2x: "images/works/robo-advisor@2x.jpg"
+        alt: "Robo Advisor"
       is_even: true
 
 # testimonial
@@ -189,6 +195,7 @@ testimonial:
       image:
         x: "images/testimonials/daniel-jordan.jpg"
         _2x: "images/testimonials/daniel-jordan@2x.jpg"
+        alt: "Daniel Jordan"
 
     - name: "Jonathan Peters"
       position: "Textic, CEO"
@@ -196,6 +203,7 @@ testimonial:
       image:
         x: "images/testimonials/jonathan-peters.jpg"
         _2x: "images/testimonials/jonathan-peters@2x.jpg"
+        alt: "Jonathan Peters"
 
     - name: "Antonio Willis"
       position: "Cyberse, CEO"
@@ -203,6 +211,7 @@ testimonial:
       image:
         x: "images/testimonials/antonio-willis.jpg"
         _2x: "images/testimonials/antonio-willis@2x.jpg"
+        alt: "Antonio Willis"
 
 # contact
 contact:
