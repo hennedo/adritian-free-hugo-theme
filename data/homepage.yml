@@ -1,3 +1,6 @@
+head:
+  title: "Hello, I’m Cool!"
+  description: "A website about a cool person"
 # showcase
 showcase:
   enable: true
